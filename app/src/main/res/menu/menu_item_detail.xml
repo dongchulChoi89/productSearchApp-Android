@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=
+        ".ItemDetailActivity" >
+    <item
+        android:id="@+id/facebook"
+        android:icon="@drawable/facebook"
+        android:title="facebook"
+        app:showAsAction="always" />
+</menu>

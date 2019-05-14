@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">dongchulchoi.us-east-2.elasticbeanstalk.com</domain>
+        <domain includeSubdomains="true">ebaystatic.com</domain>
+        <domain includeSubdomains="true">open.api.ebay.com</domain>
+        <domain includeSubdomains="true">svcs.ebay.com</domain>
+        <domain includeSubdomains="true">ip-api.com</domain>
+    </domain-config>
+</network-security-config>

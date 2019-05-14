@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ProductSearchApp</string>
+    <string name="main_title">Product Search</string>
+    <string name="action_settings">Settings</string>
+    <string name="form_keyword_label">Keyword</string>
+    <string name="form_keyword_input">Enter Keyword</string>
+    <string name="form_search_label">SEARCH</string>
+    <string name="form_clear_label">CLEAR</string>
+    <string name="item_title_label">Title</string>
+    <string name="item_zip_label">Zip</string>
+    <string name="item_shipping_label">Shipping</string>
+    <string name="item_condition_label">Condition</string>
+    <string name="item_Price_label">Price</string>
+    <string name="body_title_label1">Showing</string>
+    <string name="body_title_label2">results for</string>
+    <string-array name="category_array">
+        <item>All</item>
+        <item>Art</item>
+        <item>Baby</item>
+        <item>Books</item>
+        <item>Clothing, Shoes &amp; Accessories</item>
+        <item>Computers, Tablets &amp; Networking</item>
+        <item>Health &amp; Beauty</item>
+        <item>Music</item>
+        <item>Video Games &amp; Consoles</item>
+    </string-array>
+</resources>
