@@ -8,7 +8,6 @@
 
 ## Referencing API
 >eBay API, Google Customized Search API, and Facebook API
-<br>
 
 ## Video
 [![productSearchApp](https://img.youtube.com/vi/6lEb0AeNYWA/maxresdefault.jpg)](https://youtu.be/6lEb0AeNYWA "productSearchApp")
